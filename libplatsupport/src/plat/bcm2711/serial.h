@@ -13,3 +13,6 @@
 #include "../../chardev.h"
 
 int uart_init(const struct dev_defn* defn, const ps_io_ops_t* ops, ps_chardevice_t* dev);
+
+
+/* This is a pull request test */
